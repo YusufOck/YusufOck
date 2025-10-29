@@ -40,10 +40,7 @@
   - ArkSigner Software & Hardware Industry Inc. – Software Engineering Intern  
   - UAV Control & Simulation Lab – Research Intern
 
-## 📜 Certificates
 
-- [Manual Testing Course Certificate](https://lms.techproductionco.com/m/admin/tool/certificate/index.php)
-- [Türkiye Cyber Homeland Program 2025 Verification](https://drdogrulama.sanayi.gov.tr/tr/tr/verify/48435121536860/)
 
 ## 🌐 Languages
 
@@ -53,7 +50,6 @@
 ## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mehmetyusufocak63)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/YusufOck)
 [![Email](https://img.shields.io/badge/Email-Send-orange?logo=gmail)](mailto:yusuf.ock2611@gmail.com)
 
 ---
