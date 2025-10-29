@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Mehmet Yusuf Ocak! 👋
 
-<!--
-**YusufOck/YusufOck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profil üst kısmında öne çıkan cihaz/proje görselleri -->
+<p align="center">
+  <img src="./images/uav_lineup.jpg" alt="UAV Lineup" width="350"/>
+  <img src="./images/uav_lab.jpg" alt="UAV Lab Simulation" width="350"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Software Engineer & UAV Systems Enthusiast
+- 🎮 Robotics, Simulation, and Automation Lover
+- 🎓 Computer Engineering student at Sivas Science and Technology University
+- 🌍 Based in Şanlıurfa & Sivas, Turkey
+
+## 🏆 Achievements & Projects
+
+- **2025 Teknofest Air Defense Systems Competition**  
+  Finalist (6th place among 515 teams)  
+  [See on GitHub](https://github.com/YusufOck)
+
+- **UAV Simulation & Control**  
+  Developed and tested UAV control algorithms in Gazebo and ROS environments.
+
+## 🛠️ Skills & Technologies
+
+- **Programming Languages:** C++, Python, Java, Kotlin, JavaScript, TypeScript
+- **Frameworks/Libraries:** ROS, OpenCV, React, Next.js, Node.js
+- **Tools:** Gazebo Simulation, Docker, Git, CI/CD
+- **Other:** Image Processing, UAV Control, Cyber Security, Manual Testing
+
+## 🎓 Education & Experience
+
+- **Sivas Science and Technology University**  
+  Computer Engineering (2022 - ongoing)
+
+- **Internships:**  
+  - ArkSigner Software & Hardware Industry Inc. – Software Engineering Intern  
+  - UAV Control & Simulation Lab – Research Intern
+
+## 📜 Certificates
+
+- [Manual Testing Course Certificate](https://lms.techproductionco.com/m/admin/tool/certificate/index.php)
+- [Türkiye Cyber Homeland Program 2025 Verification](https://drdogrulama.sanayi.gov.tr/tr/tr/verify/48435121536860/)
+
+## 🌐 Languages
+
+- English: B2 (Upper Intermediate)
+- German: A2 (Elementary)
+
+## 📬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mehmetyusufocak63)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/YusufOck)
+[![Email](https://img.shields.io/badge/Email-Send-orange?logo=gmail)](mailto:yusuf.ock2611@gmail.com)
+
+---
+
+> I am always seeking to learn, improve, and contribute to innovative projects in robotics and defense technologies. Let’s connect and collaborate!
