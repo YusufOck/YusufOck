@@ -37,7 +37,7 @@
   Computer Engineering (2022 - ongoing)
 
 - **Internships:**  
-  - ArkSigner Software & Hardware Industry Inc. – Software Engineering Intern  
+  - ArkSigner Software & Hardware Industry Inc. – Computer Engineering Intern  
   - UAV Control & Simulation Lab – Research Intern
 
 
