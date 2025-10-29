@@ -3,7 +3,7 @@
 <!-- Profil üst kısmında öne çıkan cihaz/proje görselleri -->
 <p align="center">
   <img src="./img/ROS2.png" alt="UAV Lineup" width="350"/>
-  <img src="./img/Simüling.png" alt="UAV Lab Simulation" width="350"/>
+  <img src="./img/Sümüling.png" alt="UAV Lab Simulation" width="350"/>
 </p>
 
 ---
