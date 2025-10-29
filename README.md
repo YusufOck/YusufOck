@@ -19,7 +19,7 @@
 
 - **2025 Teknofest Air Defense Systems Competition**  
   Finalist (6th place among 515 teams)  
-  [See on GitHub](https://github.com/YusufOck)
+  [See on Linkedin Post](https://www.linkedin.com/posts/mehmetyusufocak63_t3vakfaft-aselsan-milliteknolojihamlesi-activity-7376912497209016320-_inW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEileeoBHpSParqkFHWkbeOdqL487oHL_ug)
 
 - **UAV Simulation & Control**  
   Developed and tested UAV control algorithms in Gazebo and ROS environments.
